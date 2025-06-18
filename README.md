@@ -5,6 +5,6 @@
 ## Education
 -- A.A.S., Info Systems Management | Community College of Air Force  
 -- B.S., Information Technology | Western Governors University  
--- M.S., Data Analytics | Western Governors University
+-- M.S., Data Analytics | Western Governors University  
 
 ## Projects
