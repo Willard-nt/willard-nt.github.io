@@ -1,8 +1,10 @@
 # Data Analyst
 
-### Education
-Information Systems Management, A.A.S
-Information Technology, B.S.
-Data Analytics, M.S.
+#### Technical Skills: Python, PostgresSQL
 
-### Projects
+## Education
+-- A.A.S., Information Systems Management | Community College of Air Force
+-- B.S., Information Technology | Western Governors University 
+-- M.S., Data Analytics | Western Governors University
+
+## Projects
