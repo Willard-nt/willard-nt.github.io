@@ -6,7 +6,7 @@
 -- A.A.S., Info Systems Management | Community College of Air Force
 
 ## Projects
-# Data Engineer Portfolio
+# Data Engineering Portfolio
 
 ## About Me
 
