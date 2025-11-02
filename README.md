@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Engineer
 
 #### Technical Skills: Python, PostgresSQL
 
