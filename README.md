@@ -20,10 +20,10 @@ I’m a data engineer passionate about building scalable data pipelines, optimiz
 
 Explore my featured projects:
 
-## [Music Streaming ETL Pipeline](https://github.com/your-username/music-streaming-etl-pipeline)
+## [Music Streaming ETL Pipeline](https://github.com/willard-nt/music-streaming-etl-pipeline)
 Automated ETL with Airflow, loading S3 data to Redshift and validating with SQL-based quality checks.
 
-## [IoT Lakehouse for STEDI Analytics on AWS](https://github.com/your-username/iot-lakehouse-stedi)
+## [IoT Lakehouse for STEDI Analytics on AWS](https://github.com/willard-nt/IoT-Data-Lakehouse)
 Built a Lakehouse to process IoT sensor data for ML, ensuring quality and user content compliance.
 
 ## [Cloud Database for E-Commerce](https://github.com/your-username/cloud-ecommerce-database)
