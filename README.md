@@ -1,7 +1,9 @@
----
-layout: default
-title: Data Engineering Portfolio
----
+# Data Engineer
+
+## Education
+-- M.S., Data Analytics - Data Engineering | Western Governors University
+-- B.S., Information Technology | Western Governors University
+-- A.A.S., Info Systems Management | Community College of Air Force
 
 # About Me
 
