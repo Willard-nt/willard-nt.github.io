@@ -6,9 +6,9 @@ title: Home
 <section id="home">
     <div class="container">
         <div class="hero">
-            <h1>Hi, I'm {{ site.title }}</h1>
-            <div class="subtitle">Full Stack Developer & Creative Problem Solver</div>
-            <p>I build elegant solutions to complex problems, transforming ideas into reality through clean code and innovative thinking.</p>
+            <h1>Hi, Willard {{ site.title }}</h1>
+            <div class="subtitle">Data Engineer & Creative Problem Solver</div>
+            <p>I’m a data engineer passionate about building scalable data pipelines, optimizing data workflows, and enabling data-driven decision-making. I specialize in.</p>
             <div class="cta-buttons">
                 <a href="#projects" class="btn btn-primary">View My Work</a>
                 <a href="#contact" class="btn btn-secondary">Get In Touch</a>
@@ -22,10 +22,7 @@ title: Home
         <div class="content-box">
             <h2>About Me</h2>
             <p class="about-text">
-                I'm a passionate developer with a love for creating beautiful, functional web experiences. 
-                With expertise in modern technologies and a keen eye for design, I bring ideas to life through 
-                code. When I'm not coding, you can find me exploring new technologies, contributing to open source, 
-                or sharing knowledge with the developer community.
+                I'm
             </p>
         </div>
     </div>
