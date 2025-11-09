@@ -1,5 +1,23 @@
-title: Willard Nixon
-#logo:
-#description:
-#show_downloads: true
-theme: jekyll-theme-minimal
+title: Your Name
+email: your.email@example.com
+description: >-
+  Full Stack Developer & Creative Problem Solver
+baseurl: ""
+url: "https://yourusername.github.io"
+
+# Social media usernames
+github_username: yourusername
+linkedin_username: yourusername
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
