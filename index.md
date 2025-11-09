@@ -41,6 +41,9 @@ title: Home
                         <span class="tag">AWS</span>
                         <span class="tag">Python</span>
                     </div>
+                    <a href="https://github.com/Willard-nt/Music-Streaming-ETL-Pipeline" target="_blank" style="color: #667eea; text-decoration: none; display: inline-block; margin-top: 1rem; font-weight: 600; transition: all 0.3s;">
+                        View on GitHub →
+                    </a>
                 </div>
                 <div class="card">
                     <h3>IoT Data Lakehouse</h3>
@@ -50,6 +53,9 @@ title: Home
                         <span class="tag">AWS</span>
                         <span class="tag">Apache Spark</span>
                     </div>
+                    <a href="https://github.com/Willard-nt/IoT-Data-Lakehouse" target="_blank" style="color: #667eea; text-decoration: none; display: inline-block; margin-top: 1rem; font-weight: 600; transition: all 0.3s;">
+                        View on GitHub →
+                    </a>
                 </div>
                 <div class="card">
                     <h3>Project Three</h3>
