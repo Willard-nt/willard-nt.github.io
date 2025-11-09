@@ -35,7 +35,7 @@ title: Home
             <div class="grid grid-3">
                 <div class="card">
                     <h3>Music Streaming ETL Pipeline</h3>
-                    <p>This project implemented a data pipeline using Apache Airflow to orchestrate ETL operations from Amazon S3 to Amazon Redshift.</p>
+                    <p>Implements a data pipeline using Apache Airflow to orchestrate ETL operations from Amazon S3 to Amazon Redshift.</p>
                     <div class="tags">
                         <span class="tag">Airflow 3</span>
                         <span class="tag">AWS</span>
@@ -47,7 +47,7 @@ title: Home
                 </div>
                 <div class="card">
                     <h3>IoT Data Lakehouse</h3>
-                    <p>This project presents an AWS-based lakehouse architecture for STEDI, ingesting and transforming IoT and customer data for machine learning.</p>
+                    <p>Presents an AWS-based lakehouse architecture for a human step trainer manufacturer, ingesting and transforming IoT and customer data for machine learning.</p>
                     <div class="tags">
                         <span class="tag">Python</span>
                         <span class="tag">AWS</span>
