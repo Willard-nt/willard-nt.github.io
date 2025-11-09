@@ -6,7 +6,7 @@ title: Home
 <section id="home">
     <div class="container">
         <div class="hero">
-            <h1>Hi, Willard {{ site.title }}</h1>
+            <h1>Hi, I'm {{ site.title }}</h1>
             <div class="subtitle">Data Engineer & Creative Problem Solver</div>
             <p>I’m a data engineer passionate about building scalable data pipelines, optimizing data workflows, and enabling data-driven decision-making. I specialize in.</p>
             <div class="cta-buttons">
