@@ -94,7 +94,7 @@ title: Home
             </p>
             <div class="cta-buttons">
                 <a href="mailto:{{ willardnixoniii@gmail.com }}" class="btn btn-primary">Send Email</a>
-                <a href="{{ site.baseurl }}/assets/resume.pdf class="btn btn-secondary" target="_blank">View Resume/CV</a>
+                <a href="{{ site.baseurl }}/assets/DE_Resume.pdf class="btn btn-secondary" target="_blank">View Resume/CV</a>
             </div>
         </div>
     </div>
