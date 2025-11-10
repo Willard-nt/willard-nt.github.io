@@ -93,8 +93,8 @@ title: Home
                 I'm always open to new opportunities and collaborations. Feel free to reach out!
             </p>
             <div class="cta-buttons">
-                <a href="mailto:{{ site.email }}" class="btn btn-primary">Send Email</a>
-                <a href="https://github.com/{{ site.github_username }}" class="btn btn-secondary" target="_blank">View GitHub</a>
+                <a href="mailto:{{ willardnixoniii@gmail.com }}" class="btn btn-primary">Send Email</a>
+                <a href="{{ site.baseurl }}/assets/resume.pdf class="btn btn-secondary" target="_blank">View Resume/CV</a>
             </div>
         </div>
     </div>
