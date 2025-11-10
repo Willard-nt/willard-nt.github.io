@@ -90,11 +90,11 @@ title: Home
         <div class="content-box">
             <h2>Get In Touch</h2>
             <p class="contact-text">
-                I'm always open to new opportunities and collaborations. Feel free to reach out!
+                Feel free to reach out! Check out my resume by clicking the button below.
             </p>
             <div class="cta-buttons">
                 <a href="mailto:{{ willardnixoniii@gmail.com }}" class="btn btn-primary">Send Email</a>
-                <a href="{{ site.baseurl }}/assets/DE_Resume.pdf class="btn btn-secondary" target="_blank">View Resume/CV</a>
+                <a href="{{ site.baseurl }}/assets/DE_Resume.pdf" class="btn btn-secondary" target="_blank">View Resume</a>
             </div>
         </div>
     </div>
